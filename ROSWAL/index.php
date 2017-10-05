@@ -1,7 +1,7 @@
 <?php include('header.php')?>
 <?php include('admin/connect.php');?>
 
-  <body background="media/FRONTIS.jpg">
+  <body>
 
 
      <div class="navbar navbar-inverse navbar-fixed-top">
@@ -90,7 +90,7 @@
 <div id="about" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-header">
     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    <h3 id="myModalLabel">Kingsfields Express Inn</h3>
+    <h3 id="myModalLabel">Roswal Business Hotel</h3>
   </div>
   <div class="modal-body">
     <p>One fine body…</p>
@@ -106,7 +106,7 @@
 <div id="contact" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-header">
     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    <h3 id="myModalLabel"><img style="margin-top:-5px;" src="media/kingsfields.png" width="30" height="30"> Kingsfields Express Inn</h3>
+    <h3 id="myModalLabel"><img style="margin-top:-5px;" src="media/kingsfields.png" width="30" height="30"> Roswal Business Hotel</h3>
   </div>
   <div class="modal-body">
   
@@ -188,9 +188,9 @@
           <img src="admin/slider/IMG_5561.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>BIENVENIDO A KINGSFIELD</h1>
-              <p class="lead" align-justify>"Está situado en Circumferential Road, ciudad de Tagum, tomamos un acercamiento caliente y amistoso a la hospitalidad, si usted viaja para el negocio o las vacaciones que usted amará una localización excepcional, la buena calidad, habitaciones limpias y cómodas.
-Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
+              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
+              <p class="lead" align-justify>"Con el propósito de implementar áreas de hospedaje para ejecutivos que visitan nuestra ciudad principalmente por negocios, nace Roswal Hotel, con el concepto de distinción, exclusividad y elegancia, sostenidos por el excelente servicio.
+Ubicado en la Av. Victor Larco en la ciudad de Trujillo, rodeada de importantes centros comerciales, centros de entretenimientos diversos y a pocos minutos del centro histórico..... "</p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
@@ -199,9 +199,8 @@ Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
           <img src="admin/slider/IMG_5563.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>BIENVENIDO A KINGSFIELD</h1>
-              <p class="lead" align-justify>"Está situado en Circumferential Road, ciudad de Tagum, tomamos un acercamiento caliente y amistoso a la hospitalidad, si usted viaja para el negocio o las vacaciones que usted amará una localización excepcional, la buena calidad, habitaciones limpias y cómodas.
-Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
+              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
+              <p class="lead" align-justify>.</p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
@@ -210,9 +209,8 @@ Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
           <img src="admin/slider/IMG_5565.jpg" alt="">
           <div class="container">
              <div class="carousel-caption">
-              <h1>BIENVENIDO A KINGSFIELD</h1>
-              <p class="lead" align-justify>"Está situado en Circumferential Road, ciudad de Tagum, tomamos un acercamiento caliente y amistoso a la hospitalidad, si usted viaja para el negocio o las vacaciones que usted amará una localización excepcional, la buena calidad, habitaciones limpias y cómodas.
-Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
+              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
+              <p class="lead" align-justify>.</p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
@@ -221,9 +219,8 @@ Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
           <img src="admin/slider/IMG_5566.jpg" alt="">
           <div class="container">
              <div class="carousel-caption">
-              <h1>BIENVENIDO A KINGSFIELD</h1>
-              <p class="lead" align-justify>"Está situado en Circumferential Road, ciudad de Tagum, tomamos un acercamiento caliente y amistoso a la hospitalidad, si usted viaja para el negocio o las vacaciones que usted amará una localización excepcional, la buena calidad, habitaciones limpias y cómodas.
-Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
+              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
+              <p class="lead" align-justify>.</p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
@@ -243,7 +240,7 @@ Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
           <img src="admin/slider/IMG_5564.jpg" alt="">
           <div class="container">
              <div class="carousel-caption">
-              <h1>BIENVENIDO A KINGSFIELD</h1>
+              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
               <p class="lead" align-justify>"Está situado en Circumferential Road, ciudad de Tagum, tomamos un acercamiento caliente y amistoso a la hospitalidad, si usted viaja para el negocio o las vacaciones que usted amará una localización excepcional, la buena calidad, habitaciones limpias y cómodas.
 Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Book Online Here</a>
@@ -265,7 +262,8 @@ Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
       <hr>
 
       <footer>
-        <center>&copy; Kingsfield Express Inn, Derechos Reservados 2017</center>
+        <center>BIENVENIDO A ROSWAL BUSINESS HOTEL, Derechos Reservados 2017
+        </center>
       </footer>
 
     <!-- Le javascript
