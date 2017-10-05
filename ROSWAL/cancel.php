@@ -53,11 +53,17 @@ include('admin/connect.php');
 	
 	function cancel($confirmation,$b){
 		
-		$sql = "select count('reserveID') from tb_reserva where transaction_code = '$confirmation' and roomID = '$b'";
-		echo $sql;
-		$qry = mysqli_query($connection,$sql) or die ('Error: '.mysqli_error($connection));
+		if(!$connection){
+			$hostname = "localhost";
+			$username = "root";
+			$password = "";
+			$dbname = "roswal_db";
+			$connection = mysqli_connect($hostname, $username, $password, $dbname);
+		}
+		
+		$qry = mysqli_query($connection,"select count(reserveID) from tb_reserva where transaction_code = '$confirmation' and roomID = '$b'") or die (mysqli_error());
 			
-		return (mysqli_result($qry, 0 ) == 1 ) ? true : false;
+		return ($qry) ? true : false;
 				
 	}
 	

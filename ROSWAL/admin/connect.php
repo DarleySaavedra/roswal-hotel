@@ -2,7 +2,7 @@
 	$hostname = "localhost";
 	$username = "root";
 	$password = "";
-	$dbname = "kingsfields_db";
+	$dbname = "roswal_db";
 	
 	//$connection = mysql_connect($hostname, $username, $password);
 	
