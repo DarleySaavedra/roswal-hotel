@@ -51,7 +51,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#"><img style="margin-top:-5px;" src="media/roswal.jpg" width="30" height="30"> Roswal Business Hotelinn</a>
+          <a class="brand" href="#"><img style="margin-top:-5px;" src="media/roswal.jpg" width="30" height="30"> Roswal Business Hotel</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li><a href="index.php"><i class="icon-home"></i> Inicio</a></li>
@@ -459,7 +459,7 @@ No hay cargo adicional si cancela 24 horas, antes de la fecha de llegada. Para c
       <hr>
 
       <footer>
-        <p>&copy; Kingsfields Express Inn, Derechos Reservados 2017 </p>
+        <p>&copy; Roswal Business Hotel, Derechos Reservados 2017 </p>
       </footer>
 
     <!-- Le javascript

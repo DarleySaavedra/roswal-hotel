@@ -67,7 +67,7 @@ break;
 }
 if (hasChecked == false)
 {
-alert("Please select at least one.");
+alert("Porfavor seleccione al menos uno.");
 return false;
 }
 return true;
