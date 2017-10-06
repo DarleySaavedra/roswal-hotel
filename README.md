@@ -13,11 +13,11 @@ Se analizó el problema presente en la atención que brindaba dicho restaurante 
 
 # Pictograma  de diagnostico 
 
-<img src= 'https://github.com/DarleySaavedra/roswal-hotel/blob/master/Diagrama%20Diagnosticador.png'/>
+<img src= 'https://rawgit.com/DarleySaavedra/roswal-hotel/master/Diagrama%20Diagnosticador.png'/>
 
 # Pictograma solucionador
 
-<img src='https://github.com/DarleySaavedra/roswal-hotel/blob/master/Diagrama%20Solucionador.png'/>
+<img src='https://rawgit.com/DarleySaavedra/roswal-hotel/master/Diagrama%20Solucionador.png'/>
 
 # Requerimientos de la Empresa
 + Reportar reservas por fecha
@@ -29,9 +29,11 @@ Se analizó el problema presente en la atención que brindaba dicho restaurante 
 
 El acceso detallado a los requerimientos, junto con las tareas de usuario, se encuentran en el siguiente [enlace](https://drive.google.com/drive/u/0/folders/0B3PlPuPzfmtkZ0VfeVBWazRLUDg)
 # Interfaces
-<img src='https://github.com/DarleySaavedra/roswal-hotel/blob/master/Entrada.jpg'/>
-<img src ='https://github.com/DarleySaavedra/roswal-hotel/blob/master/Hab.jpg'/>
-<img src= 'https://github.com/DarleySaavedra/roswal-hotel/blob/master/Reservar.jpg'/>
+<img src='https://rawgit.com/DarleySaavedra/roswal-hotel/master/Entrada.jpg'/>
+
+<img src ='https://rawgit.com/DarleySaavedra/roswal-hotel/master/Hab.jpg'/>
+
+<img src= 'https://rawgit.com/DarleySaavedra/roswal-hotel/master/Reservar.jpg'/>
 
 ***¿Como Funciona?***
 --------------------
