@@ -1,6 +1,8 @@
 # Sistema de Reservas Online “Roswal Business Hotel"
 En este presente proyecto desarrollado con la finalidad de mostrar las metodologías ágiles, enseñadas en el curso **INGENIERIA DE SOFTWARE II**, a cargo del Ingeniero Henry Mendoza Puerta, docente de la Universidad Privada Antenor Orrego. 
+
 Integrantes:
+
 +	CAMACHO VEGA, Bruno
 +	EVANGELISTA SAAVEDRA, Darley
 + GALARZA GARCIA, Pedro
