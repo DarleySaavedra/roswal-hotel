@@ -51,7 +51,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#"><img style="margin-top:-5px;" src="media/kingsfields.png" width="30" height="30"> Kingsfield Express inn</a>
+          <a class="brand" href="#"><img style="margin-top:-5px;" src="media/roswal.jpg" width="30" height="30"> Roswal Business Hotelinn</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li><a href="index.php"><i class="icon-home"></i> Inicio</a></li>

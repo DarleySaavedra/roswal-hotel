@@ -12,7 +12,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#"><img style="margin-top:-5px;" src="media/kingsfields.jpg" width="30" height="30">  Roswal Business Hotel </a>
+          <a class="brand" href="#"><img style="margin-top:-5px;" src="media/roswal.jpg" width="30" height="30">  Roswal Business Hotel </a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="#"><i class="icon-home"></i> Inicio</a></li>
@@ -182,15 +182,15 @@
 
     <!-- Carousel
     ================================================== -->
+  	<h1>BIENVENIDO</h1>
     <div style="margin-bottom:0px;" id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
           <img src="admin/slider/IMG_5561.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
-              <p class="lead" align-justify>"Con el propósito de implementar áreas de hospedaje para ejecutivos que visitan nuestra ciudad principalmente por negocios, nace Roswal Hotel, con el concepto de distinción, exclusividad y elegancia, sostenidos por el excelente servicio.
-Ubicado en la Av. Victor Larco en la ciudad de Trujillo, rodeada de importantes centros comerciales, centros de entretenimientos diversos y a pocos minutos del centro histórico..... "</p>
+			<h1 style="color:#60C">Has tu reserva hoy !</h1>
+            <p class="lead" align-justify></p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
@@ -199,8 +199,8 @@ Ubicado en la Av. Victor Larco en la ciudad de Trujillo, rodeada de importantes 
           <img src="admin/slider/IMG_5563.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
-              <p class="lead" align-justify>.</p>
+              <h1></h1>
+              <p class="lead" align-justify></p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
@@ -209,8 +209,8 @@ Ubicado en la Av. Victor Larco en la ciudad de Trujillo, rodeada de importantes 
           <img src="admin/slider/IMG_5565.jpg" alt="">
           <div class="container">
              <div class="carousel-caption">
-              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
-              <p class="lead" align-justify>.</p>
+              <h1></h1>
+              <p class="lead" align-justify></p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
@@ -219,8 +219,8 @@ Ubicado en la Av. Victor Larco en la ciudad de Trujillo, rodeada de importantes 
           <img src="admin/slider/IMG_5566.jpg" alt="">
           <div class="container">
              <div class="carousel-caption">
-              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
-              <p class="lead" align-justify>.</p>
+              <h1></h1>
+              <p class="lead" align-justify></p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
@@ -229,9 +229,8 @@ Ubicado en la Av. Victor Larco en la ciudad de Trujillo, rodeada de importantes 
           <img src="admin/slider/IMG_5560.jpg" alt="">
           <div class="container">
              <div class="carousel-caption">
-              <h1>BIENVENIDO A KINGSFIELD</h1>
-              <p class="lead" align-justify>"Está situado en Circumferential Road, ciudad de Tagum, tomamos un acercamiento caliente y amistoso a la hospitalidad, si usted viaja para el negocio o las vacaciones que usted amará una localización excepcional, la buena calidad, habitaciones limpias y cómodas.
-Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
+             <h 1></h1>
+             <p class="lead" align-justify></p>
               <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
@@ -240,10 +239,9 @@ Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
           <img src="admin/slider/IMG_5564.jpg" alt="">
           <div class="container">
              <div class="carousel-caption">
-              <h1>BIENVENIDO A ROSWAL BUSINESS HOTEL</h1>
-              <p class="lead" align-justify>"Está situado en Circumferential Road, ciudad de Tagum, tomamos un acercamiento caliente y amistoso a la hospitalidad, si usted viaja para el negocio o las vacaciones que usted amará una localización excepcional, la buena calidad, habitaciones limpias y cómodas.
-Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
-              <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Book Online Here</a>
+              <h1></h1>
+              <p class="lead" align-justify></p>
+              <a class="btn btn-primary btn-large" href="booking.php"><i class="icon-calendar"></i> Reserva Online Aquí</a>
             </div>
           </div>
         </div>
@@ -262,7 +260,7 @@ Disfrute de una noche de descanso íntimo y tranquilo en la ciudad!".</p>
       <hr>
 
       <footer>
-        <center>BIENVENIDO A ROSWAL BUSINESS HOTEL, Derechos Reservados 2017
+        <center>Derechos Reservados 2017
         </center>
       </footer>
 

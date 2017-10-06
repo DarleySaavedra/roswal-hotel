@@ -240,7 +240,7 @@ function goBack()
 
       <div class="jumbotron">
         <h1>Seleccione sus fechas</h1>
-        <p class="lead"><img src="media/kingsfields.png" width="150" height="150"></p>
+        <p class="lead"><img src="media/roswal.jpg" width="150" height="150"></p>
     
       
       				<form method="post" action="selectrooms.php" name="index" onSubmit="return validateForm()">
